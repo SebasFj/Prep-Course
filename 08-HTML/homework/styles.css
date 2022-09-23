@@ -1,0 +1,25 @@
+img {
+    width: 400px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background: aqua;
+    padding: 50px;
+    margin-left: 500px;
+    border-style: double;
+    border-color: blueviolet;
+    border-width: 3px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body {
+    background-image: url("https://st.depositphotos.com/1605581/3032/i/450/depositphotos_30328185-stock-photo-abstract-blue-background-business-card.jpg");
+    position: center;
+}
+div {
+    position: center;
+    padding-left: 500px;
+}
